@@ -234,3 +234,30 @@
 @@||*.search.production.us.trafficmanager.net^$important
 @@||ssw.live.com^$important
 @@||storage.live.com^$important
+
+### Azure portal authentication
+@@||login.microsoftonline.com
+@@||*.aadcdn.msftauth.net
+@@||*.aadcdn.msftauthimages.net
+@@||*.aadcdn.msauthimages.net
+@@||*.logincdn.msftauth.net
+@@||login.live.com
+@@||*.msauth.net
+@@||*.aadcdn.microsoftonline-p.com
+
+### Azure portal framework
+@@||*.portal.azure.com
+@@||*.hosting.portal.azure.net
+@@||*.reactblade.portal.azure.net
+@@||management.azure.com
+@@||*.ext.azure.com
+@@||*.graph.windows.net
+@@||*.graph.microsoft.com
+@@||hosting.partners.azure.net
+
+### Azure Account data
+@@||*.account.microsoft.com
+@@||*.bmx.azure.com
+@@||*.subscriptionrp.trafficmanager.net
+@@||*.signup.azure.com
+*.microsoftonline-p.com
