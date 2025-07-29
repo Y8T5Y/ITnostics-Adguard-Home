@@ -1,15 +1,12 @@
-### custom
+### Custom Allow
 @@||*.github.com^$important
 @@||*.githubusercontent.com^$important
 @@||*.signal.org^$important
 @@||click.discord.com^$important
 
-# Ikea
+### Ikea
 @@||data.logentries.com^$important
 @@||webhook.logentries.com^$important
-
-### -----------------------
-### required TRUE
 
 ### Exchange Online
 @@||*.mail.protection.outlook.com^$important
@@ -175,9 +172,6 @@
 @@||officeclient.microsoft.com^$important
 @@||oneclient.sfx.ms^$important
 @@||spoprod-a.akamaihd.net^$important
-
-### -----------------------
-### required FALSE
 
 ### Exchange Online
 @@||outlook.office365.com^$important
