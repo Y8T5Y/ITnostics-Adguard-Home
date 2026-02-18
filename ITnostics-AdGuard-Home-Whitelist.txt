@@ -3,7 +3,6 @@
 @@||*.githubusercontent.com^$important
 @@||*.signal.org^$important
 @@||click.discord.com^$important
-@@||brightcove.net^$important
 
 ### Ikea
 @@||data.logentries.com^$important
@@ -319,4 +318,5 @@
 @@||storage.azure.net
 @@||vault.azure.net
 @@||ux.console.azure.com
+
 
